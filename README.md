@@ -61,6 +61,7 @@ bongai/
 
 - streamlit
 - langchain
+- langchain-community
 - langchain-openai
 - python-dotenv
 - faiss-cpu
